@@ -1,5 +1,9 @@
 # vue-shippo-api
 
+shippo shipment rates calculator using shippo API
+
+DEMO https://vue-shippo-api.netlify.app/
+
 ## Project setup
 ```
 npm install
